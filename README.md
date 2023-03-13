@@ -7,11 +7,11 @@
 
 🌈 My pronouns are **She/They**.
 
-👩‍💻 I'm currently studying Web Development at **Juno College**.
+👩‍💻 I'm a recent **Juno College** Web Development Bootcamp grad.
 
-🌱 I’m learning **JavaScript/ES6, RESTful APIs, React & Firebase.**
+🌱 I’m currently expanding on my knowledge of **JavaScript, TypeScript, React/Redux, and Firebase.**
 
-💖 Ask me about **my top 20 albums of 2022, the best slasher film you've never seen, or my grandma's chawanmushi recipe** 🍲
+💖 Ask me about **the best slasher film you've never seen, or my grandma's chawanmushi recipe** 🍲
 
 📫 Feel free to reach out ☞ **haleytibbitts@gmail.com**
 
